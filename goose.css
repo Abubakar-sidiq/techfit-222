@@ -1,0 +1,23 @@
+body{
+    background-color: orange;
+    padding: 200px;
+}
+header img{
+    border-radius: 175px ;
+    padding-bottom: 0px;
+    color: orange;
+}
+.line{
+    border:solid  rgb(43, 15, 169);
+    line-height: 100px;
+}
+header{
+    text-align: center;
+    color: blue;
+    font-size: large;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    padding-bottom: -50%;
+}
+h2{
+    color: blue;
+}
